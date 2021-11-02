@@ -1,1 +1,7 @@
 .spyproject/
+geocoding/
+routes/
+JN_Address.csv
+connections.xlsx
+Address.csv
+dealer_cluster.xlsx

@@ -110,6 +110,8 @@ class BaiduAPIConn(object):
 
 if __name__=='__main__':
     ak = "" # baidu ak
+
+    # Steps 1 get geo loactions per address
     bd_conn = BaiduAPIConn(ak, "./geocoding")
     data = pd.read_csv("Address.csv", encoding="gbk")
 
@@ -117,6 +119,8 @@ if __name__=='__main__':
         address = bd_conn.get_coordinate(r['ID'], r['City'] + "市" + r['Address'])
         time.sleep(random.random())
 
+
+    # Step 2 generate loc to loc direcations
     bd_conn = BaiduAPIConn(ak, "./route")
     data = pd.read_csv("Address.csv", encoding="gbk")
 
