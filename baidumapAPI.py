@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Oct 29 11:45:21 2021
-Calling baidu API and get a the location information and path then save them as 
+Calling baidu API and get a the location information and path then save them as
 json file.
 @author: Shelley
 """
@@ -109,7 +109,7 @@ class BaiduAPIConn(object):
 
 
 if __name__=='__main__':
-    ak = "" # baidu ak
+    ak = "XEMXArUaUBbFEK1hd9ilOnNXIlIvrlK0"
 
     # Steps 1 get geo loactions per address
     bd_conn = BaiduAPIConn(ak, "./geocoding")
@@ -125,7 +125,7 @@ if __name__=='__main__':
     data = pd.read_csv("Address.csv", encoding="gbk")
 
     bd_conn = BaiduAPIConn(ak, "./routes")
-    conn = pd.read_excel("connections.xlsx")
+    conn = pd.read_excel("connection_jn_type3.xlsx")
     conn['Route_ID'] = conn.apply(lambda x: x['ID_orig'] + "-" + x['ID_dest'], axis=1)
     for i, r in conn.iterrows():
         distance = bd_conn.get_route_info(r['Route_ID'],

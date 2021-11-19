@@ -1,0 +1,3809 @@
+[
+  {
+    "id": 7,
+    "name": "台湾省",
+    "enName": "Taiwan",
+    "enShortName": "TW",
+    "shortName": "台",
+    "area": "华东",
+    "code": 71,
+    "capital": {
+      "cid": 1,
+      "name": "台北市",
+      "pid": 7
+    },
+    "citys": [
+      {
+        "cid": 1,
+        "name": "台北市",
+        "pid": 7
+      },
+      {
+        "cid": 2,
+        "name": "高雄市",
+        "pid": 7
+      },
+      {
+        "cid": 3,
+        "name": "基隆市",
+        "pid": 7
+      },
+      {
+        "cid": 4,
+        "name": "台中市",
+        "pid": 7
+      },
+      {
+        "cid": 5,
+        "name": "台南市",
+        "pid": 7
+      },
+      {
+        "cid": 6,
+        "name": "新竹市",
+        "pid": 7
+      },
+      {
+        "cid": 7,
+        "name": "嘉义市",
+        "pid": 7
+      },
+      {
+        "cid": 8,
+        "name": "台北县",
+        "pid": 7
+      },
+      {
+        "cid": 9,
+        "name": "宜兰县",
+        "pid": 7
+      },
+      {
+        "cid": 10,
+        "name": "桃园县",
+        "pid": 7
+      },
+      {
+        "cid": 11,
+        "name": "新竹县",
+        "pid": 7
+      },
+      {
+        "cid": 12,
+        "name": "苗栗县",
+        "pid": 7
+      },
+      {
+        "cid": 13,
+        "name": "台中县",
+        "pid": 7
+      },
+      {
+        "cid": 14,
+        "name": "彰化县",
+        "pid": 7
+      },
+      {
+        "cid": 15,
+        "name": "南投县",
+        "pid": 7
+      },
+      {
+        "cid": 16,
+        "name": "云林县",
+        "pid": 7
+      },
+      {
+        "cid": 17,
+        "name": "嘉义县",
+        "pid": 7
+      },
+      {
+        "cid": 18,
+        "name": "台南县",
+        "pid": 7
+      },
+      {
+        "cid": 19,
+        "name": "高雄县",
+        "pid": 7
+      },
+      {
+        "cid": 20,
+        "name": "屏东县",
+        "pid": 7
+      },
+      {
+        "cid": 21,
+        "name": "澎湖县",
+        "pid": 7
+      },
+      {
+        "cid": 22,
+        "name": "台东县",
+        "pid": 7
+      },
+      {
+        "cid": 23,
+        "name": "花莲县",
+        "pid": 7
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "香港特别行政区",
+    "enName": "HongKong",
+    "enShortName": "HK",
+    "shortName": "港",
+    "area": "华南",
+    "code": 81,
+    "capital": {
+      "cid": 1,
+      "name": "香港特别行政区",
+      "pid": 34
+    },
+    "adjoins": [
+      {
+        "id": 20,
+        "name": "广东省",
+        "enName": "Guangdong",
+        "enShortName": "GD",
+        "shortName": "粤",
+        "area": "华南",
+        "code": 44
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "香港特别行政区",
+        "pid": 34
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "澳门特别行政区",
+    "enName": "Macau",
+    "enShortName": "MO",
+    "shortName": "澳",
+    "area": "华南",
+    "code": 82,
+    "capital": {
+      "cid": 1,
+      "name": "澳门特别行政区",
+      "pid": 33
+    },
+    "adjoins": [
+      {
+        "id": 20,
+        "name": "广东省",
+        "enName": "Guangdong",
+        "enShortName": "GD",
+        "shortName": "粤",
+        "area": "华南",
+        "code": 44
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "澳门特别行政区",
+        "pid": 33
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "海南省",
+    "enName": "Hainan",
+    "enShortName": "HI",
+    "shortName": "琼",
+    "area": "华南",
+    "code": 46,
+    "capital": {
+      "cid": 1,
+      "name": "海口市",
+      "pid": 24
+    },
+    "adjoins": [
+      {
+        "id": 20,
+        "name": "广东省",
+        "enName": "Guangdong",
+        "enShortName": "GD",
+        "shortName": "粤",
+        "area": "华南",
+        "code": 44
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "海口市",
+        "pid": 24
+      },
+      {
+        "cid": 2,
+        "name": "三亚市",
+        "pid": 24
+      },
+      {
+        "cid": 3,
+        "name": "五指山市",
+        "pid": 24
+      },
+      {
+        "cid": 4,
+        "name": "琼海市",
+        "pid": 24
+      },
+      {
+        "cid": 5,
+        "name": "儋州市",
+        "pid": 24
+      },
+      {
+        "cid": 6,
+        "name": "文昌市",
+        "pid": 24
+      },
+      {
+        "cid": 7,
+        "name": "万宁市",
+        "pid": 24
+      },
+      {
+        "cid": 8,
+        "name": "东方市",
+        "pid": 24
+      },
+      {
+        "cid": 9,
+        "name": "澄迈县",
+        "pid": 24
+      },
+      {
+        "cid": 10,
+        "name": "定安县",
+        "pid": 24
+      },
+      {
+        "cid": 11,
+        "name": "屯昌县",
+        "pid": 24
+      },
+      {
+        "cid": 12,
+        "name": "临高县",
+        "pid": 24
+      },
+      {
+        "cid": 13,
+        "name": "白沙黎族自治县",
+        "pid": 24
+      },
+      {
+        "cid": 14,
+        "name": "昌江黎族自治县",
+        "pid": 24
+      },
+      {
+        "cid": 15,
+        "name": "乐东黎族自治县",
+        "pid": 24
+      },
+      {
+        "cid": 16,
+        "name": "陵水黎族自治县",
+        "pid": 24
+      },
+      {
+        "cid": 17,
+        "name": "保亭黎族苗族自治县",
+        "pid": 24
+      },
+      {
+        "cid": 18,
+        "name": "琼中黎族苗族自治县",
+        "pid": 24
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "新疆维吾尔自治区",
+    "enName": "Xinjiang",
+    "enShortName": "XJ",
+    "shortName": "新",
+    "area": "西北",
+    "code": 65,
+    "capital": {
+      "cid": 1,
+      "name": "乌鲁木齐市",
+      "pid": 31
+    },
+    "adjoins": [
+      {
+        "id": 21,
+        "name": "甘肃省",
+        "enName": "Gansu",
+        "enShortName": "GS",
+        "shortName": "甘",
+        "area": "西北",
+        "code": 62
+      },
+      {
+        "id": 26,
+        "name": "青海省",
+        "enName": "Qinghai",
+        "enShortName": "QH",
+        "shortName": "青",
+        "area": "西北",
+        "code": 63
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "乌鲁木齐市",
+        "pid": 31
+      },
+      {
+        "cid": 2,
+        "name": "克拉玛依市",
+        "pid": 31
+      },
+      {
+        "cid": 3,
+        "name": "石河子市　",
+        "pid": 31
+      },
+      {
+        "cid": 4,
+        "name": "阿拉尔市",
+        "pid": 31
+      },
+      {
+        "cid": 5,
+        "name": "图木舒克市",
+        "pid": 31
+      },
+      {
+        "cid": 6,
+        "name": "五家渠市",
+        "pid": 31
+      },
+      {
+        "cid": 7,
+        "name": "吐鲁番市",
+        "pid": 31
+      },
+      {
+        "cid": 8,
+        "name": "阿克苏市",
+        "pid": 31
+      },
+      {
+        "cid": 9,
+        "name": "喀什市",
+        "pid": 31
+      },
+      {
+        "cid": 10,
+        "name": "哈密市",
+        "pid": 31
+      },
+      {
+        "cid": 11,
+        "name": "和田市",
+        "pid": 31
+      },
+      {
+        "cid": 12,
+        "name": "阿图什市",
+        "pid": 31
+      },
+      {
+        "cid": 13,
+        "name": "库尔勒市",
+        "pid": 31
+      },
+      {
+        "cid": 14,
+        "name": "昌吉市　",
+        "pid": 31
+      },
+      {
+        "cid": 15,
+        "name": "阜康市",
+        "pid": 31
+      },
+      {
+        "cid": 16,
+        "name": "米泉市",
+        "pid": 31
+      },
+      {
+        "cid": 17,
+        "name": "博乐市",
+        "pid": 31
+      },
+      {
+        "cid": 18,
+        "name": "伊宁市",
+        "pid": 31
+      },
+      {
+        "cid": 19,
+        "name": "奎屯市",
+        "pid": 31
+      },
+      {
+        "cid": 20,
+        "name": "塔城市",
+        "pid": 31
+      },
+      {
+        "cid": 21,
+        "name": "乌苏市",
+        "pid": 31
+      },
+      {
+        "cid": 22,
+        "name": "阿勒泰市",
+        "pid": 31
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "黑龙江省",
+    "enName": "Heilongjiang",
+    "enShortName": "HL",
+    "shortName": "黑",
+    "area": "东北",
+    "code": 23,
+    "capital": {
+      "cid": 1,
+      "name": "哈尔滨市",
+      "pid": 10
+    },
+    "adjoins": [
+      {
+        "id": 9,
+        "name": "吉林省",
+        "enName": "Jilin",
+        "enShortName": "JL",
+        "shortName": "吉",
+        "area": "东北",
+        "code": 22
+      },
+      {
+        "id": 32,
+        "name": "内蒙古自治区",
+        "enName": "InnerMongoria",
+        "enShortName": "IM",
+        "shortName": "蒙",
+        "area": "华北",
+        "code": 15
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "哈尔滨市",
+        "pid": 10
+      },
+      {
+        "cid": 2,
+        "name": "齐齐哈尔市",
+        "pid": 10
+      },
+      {
+        "cid": 3,
+        "name": "鹤 岗 市",
+        "pid": 10
+      },
+      {
+        "cid": 4,
+        "name": "双鸭山市",
+        "pid": 10
+      },
+      {
+        "cid": 5,
+        "name": "鸡 西 市",
+        "pid": 10
+      },
+      {
+        "cid": 6,
+        "name": "大 庆 市",
+        "pid": 10
+      },
+      {
+        "cid": 7,
+        "name": "伊 春 市",
+        "pid": 10
+      },
+      {
+        "cid": 8,
+        "name": "牡丹江市",
+        "pid": 10
+      },
+      {
+        "cid": 9,
+        "name": "佳木斯市",
+        "pid": 10
+      },
+      {
+        "cid": 10,
+        "name": "七台河市",
+        "pid": 10
+      },
+      {
+        "cid": 11,
+        "name": "黑 河 市",
+        "pid": 10
+      },
+      {
+        "cid": 12,
+        "name": "绥 化 市",
+        "pid": 10
+      },
+      {
+        "cid": 13,
+        "name": "大兴安岭地区",
+        "pid": 10
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "上海市",
+    "enName": "Shanghai",
+    "enShortName": "SH",
+    "shortName": "沪",
+    "area": "华东",
+    "code": 31,
+    "capital": {
+      "cid": 1,
+      "name": "上海市",
+      "pid": 3
+    },
+    "adjoins": [
+      {
+        "id": 11,
+        "name": "江苏省",
+        "enName": "Jiangsu",
+        "enShortName": "JS",
+        "shortName": "苏",
+        "area": "华东",
+        "code": 32
+      },
+      {
+        "id": 12,
+        "name": "浙江省",
+        "enName": "Zhejiang",
+        "enShortName": "ZJ",
+        "shortName": "浙",
+        "area": "华东",
+        "code": 33
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "上海市",
+        "pid": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "天津市",
+    "enName": "Tianjing",
+    "enShortName": "TJ",
+    "shortName": "津",
+    "area": "华北",
+    "code": 12,
+    "capital": {
+      "cid": 1,
+      "name": "天津市",
+      "pid": 2
+    },
+    "adjoins": [
+      {
+        "id": 1,
+        "name": "北京市",
+        "enName": "Beijing",
+        "enShortName": "BJ",
+        "shortName": "京",
+        "area": "华北",
+        "code": 11
+      },
+      {
+        "id": 5,
+        "name": "河北省",
+        "enName": "Hebei",
+        "enShortName": "HE",
+        "shortName": "冀",
+        "area": "华北",
+        "code": 13
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "天津市",
+        "pid": 2
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "北京市",
+    "enName": "Beijing",
+    "enShortName": "BJ",
+    "shortName": "京",
+    "area": "华北",
+    "code": 11,
+    "capital": {
+      "cid": 1,
+      "name": "北京市",
+      "pid": 1
+    },
+    "adjoins": [
+      {
+        "id": 2,
+        "name": "天津市",
+        "enName": "Tianjing",
+        "enShortName": "TJ",
+        "shortName": "津",
+        "area": "华北",
+        "code": 12
+      },
+      {
+        "id": 5,
+        "name": "河北省",
+        "enName": "Hebei",
+        "enShortName": "HE",
+        "shortName": "冀",
+        "area": "华北",
+        "code": 13
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "北京市",
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "宁夏回族自治区",
+    "enName": "Ningxia",
+    "enShortName": "NX",
+    "shortName": "宁",
+    "area": "西北",
+    "code": 64,
+    "capital": {
+      "cid": 1,
+      "name": "银川市",
+      "pid": 30
+    },
+    "adjoins": [
+      {
+        "id": 21,
+        "name": "甘肃省",
+        "enName": "Gansu",
+        "enShortName": "GS",
+        "shortName": "甘",
+        "area": "西北",
+        "code": 62
+      },
+      {
+        "id": 27,
+        "name": "陕西省",
+        "enName": "Shaanxi",
+        "enShortName": "SN",
+        "shortName": "陕",
+        "area": "西北",
+        "code": 61
+      },
+      {
+        "id": 32,
+        "name": "内蒙古自治区",
+        "enName": "InnerMongoria",
+        "enShortName": "IM",
+        "shortName": "蒙",
+        "area": "华北",
+        "code": 15
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "银川市",
+        "pid": 30
+      },
+      {
+        "cid": 2,
+        "name": "石嘴山市",
+        "pid": 30
+      },
+      {
+        "cid": 3,
+        "name": "吴忠市",
+        "pid": 30
+      },
+      {
+        "cid": 4,
+        "name": "固原市",
+        "pid": 30
+      },
+      {
+        "cid": 5,
+        "name": "中卫市",
+        "pid": 30
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "西藏自治区",
+    "enName": "Tibet",
+    "enShortName": "XZ",
+    "shortName": "藏",
+    "area": "西南",
+    "code": 54,
+    "capital": {
+      "cid": 1,
+      "name": "拉萨市",
+      "pid": 29
+    },
+    "adjoins": [
+      {
+        "id": 22,
+        "name": "四川省",
+        "enName": "Sichuan",
+        "enShortName": "SC",
+        "shortName": "川",
+        "area": "西南",
+        "code": 51
+      },
+      {
+        "id": 25,
+        "name": "云南省",
+        "enName": "Yunnan",
+        "enShortName": "YN",
+        "shortName": "滇",
+        "area": "西南",
+        "code": 53
+      },
+      {
+        "id": 26,
+        "name": "青海省",
+        "enName": "Qinghai",
+        "enShortName": "QH",
+        "shortName": "青",
+        "area": "西北",
+        "code": 63
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "拉萨市",
+        "pid": 29
+      },
+      {
+        "cid": 2,
+        "name": "那曲地区",
+        "pid": 29
+      },
+      {
+        "cid": 3,
+        "name": "昌都地区",
+        "pid": 29
+      },
+      {
+        "cid": 4,
+        "name": "山南地区",
+        "pid": 29
+      },
+      {
+        "cid": 5,
+        "name": "日喀则地区",
+        "pid": 29
+      },
+      {
+        "cid": 6,
+        "name": "阿里地区",
+        "pid": 29
+      },
+      {
+        "cid": 7,
+        "name": "林芝地区",
+        "pid": 29
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "广西壮族自治区",
+    "enName": "Guangxi",
+    "enShortName": "GX",
+    "shortName": "桂",
+    "area": "华南",
+    "code": 45,
+    "capital": {
+      "cid": 1,
+      "name": "南宁市",
+      "pid": 28
+    },
+    "adjoins": [
+      {
+        "id": 20,
+        "name": "广东省",
+        "enName": "Guangdong",
+        "enShortName": "GD",
+        "shortName": "粤",
+        "area": "华南",
+        "code": 44
+      },
+      {
+        "id": 23,
+        "name": "贵州省",
+        "enName": "Guizhou",
+        "enShortName": "GZ",
+        "shortName": "黔",
+        "area": "西南",
+        "code": 52
+      },
+      {
+        "id": 25,
+        "name": "云南省",
+        "enName": "Yunnan",
+        "enShortName": "YN",
+        "shortName": "滇",
+        "area": "西南",
+        "code": 53
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "南宁市",
+        "pid": 28
+      },
+      {
+        "cid": 2,
+        "name": "柳州市",
+        "pid": 28
+      },
+      {
+        "cid": 3,
+        "name": "桂林市",
+        "pid": 28
+      },
+      {
+        "cid": 4,
+        "name": "梧州市",
+        "pid": 28
+      },
+      {
+        "cid": 5,
+        "name": "北海市",
+        "pid": 28
+      },
+      {
+        "cid": 6,
+        "name": "防城港市",
+        "pid": 28
+      },
+      {
+        "cid": 7,
+        "name": "钦州市",
+        "pid": 28
+      },
+      {
+        "cid": 8,
+        "name": "贵港市",
+        "pid": 28
+      },
+      {
+        "cid": 9,
+        "name": "玉林市",
+        "pid": 28
+      },
+      {
+        "cid": 10,
+        "name": "百色市",
+        "pid": 28
+      },
+      {
+        "cid": 11,
+        "name": "贺州市",
+        "pid": 28
+      },
+      {
+        "cid": 12,
+        "name": "河池市",
+        "pid": 28
+      },
+      {
+        "cid": 13,
+        "name": "来宾市",
+        "pid": 28
+      },
+      {
+        "cid": 14,
+        "name": "崇左市",
+        "pid": 28
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "福建省",
+    "enName": "Fujian",
+    "enShortName": "FJ",
+    "shortName": "闽",
+    "area": "华东",
+    "code": 35,
+    "capital": {
+      "cid": 1,
+      "name": "福州市",
+      "pid": 14
+    },
+    "adjoins": [
+      {
+        "id": 12,
+        "name": "浙江省",
+        "enName": "Zhejiang",
+        "enShortName": "ZJ",
+        "shortName": "浙",
+        "area": "华东",
+        "code": 33
+      },
+      {
+        "id": 15,
+        "name": "江西省",
+        "enName": "Jiangxi",
+        "enShortName": "JX",
+        "shortName": "赣",
+        "area": "华东",
+        "code": 36
+      },
+      {
+        "id": 20,
+        "name": "广东省",
+        "enName": "Guangdong",
+        "enShortName": "GD",
+        "shortName": "粤",
+        "area": "华南",
+        "code": 44
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "福州市",
+        "pid": 14
+      },
+      {
+        "cid": 2,
+        "name": "厦门市",
+        "pid": 14
+      },
+      {
+        "cid": 3,
+        "name": "莆田市",
+        "pid": 14
+      },
+      {
+        "cid": 4,
+        "name": "三明市",
+        "pid": 14
+      },
+      {
+        "cid": 5,
+        "name": "泉州市",
+        "pid": 14
+      },
+      {
+        "cid": 6,
+        "name": "漳州市",
+        "pid": 14
+      },
+      {
+        "cid": 7,
+        "name": "南平市",
+        "pid": 14
+      },
+      {
+        "cid": 8,
+        "name": "龙岩市",
+        "pid": 14
+      },
+      {
+        "cid": 9,
+        "name": "宁德市",
+        "pid": 14
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "吉林省",
+    "enName": "Jilin",
+    "enShortName": "JL",
+    "shortName": "吉",
+    "area": "东北",
+    "code": 22,
+    "capital": {
+      "cid": 1,
+      "name": "长春市",
+      "pid": 9
+    },
+    "adjoins": [
+      {
+        "id": 8,
+        "name": "辽宁省",
+        "enName": "Liaoning",
+        "enShortName": "LN",
+        "shortName": "辽",
+        "area": "东北",
+        "code": 21
+      },
+      {
+        "id": 10,
+        "name": "黑龙江省",
+        "enName": "Heilongjiang",
+        "enShortName": "HL",
+        "shortName": "黑",
+        "area": "东北",
+        "code": 23
+      },
+      {
+        "id": 32,
+        "name": "内蒙古自治区",
+        "enName": "InnerMongoria",
+        "enShortName": "IM",
+        "shortName": "蒙",
+        "area": "华北",
+        "code": 15
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "长春市",
+        "pid": 9
+      },
+      {
+        "cid": 2,
+        "name": "吉林市",
+        "pid": 9
+      },
+      {
+        "cid": 3,
+        "name": "四平市",
+        "pid": 9
+      },
+      {
+        "cid": 4,
+        "name": "辽源市",
+        "pid": 9
+      },
+      {
+        "cid": 5,
+        "name": "通化市",
+        "pid": 9
+      },
+      {
+        "cid": 6,
+        "name": "白山市",
+        "pid": 9
+      },
+      {
+        "cid": 7,
+        "name": "松原市",
+        "pid": 9
+      },
+      {
+        "cid": 8,
+        "name": "白城市",
+        "pid": 9
+      },
+      {
+        "cid": 9,
+        "name": "延边朝鲜族自治州",
+        "pid": 9
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "辽宁省",
+    "enName": "Liaoning",
+    "enShortName": "LN",
+    "shortName": "辽",
+    "area": "东北",
+    "code": 21,
+    "capital": {
+      "cid": 1,
+      "name": "沈阳市",
+      "pid": 8
+    },
+    "adjoins": [
+      {
+        "id": 5,
+        "name": "河北省",
+        "enName": "Hebei",
+        "enShortName": "HE",
+        "shortName": "冀",
+        "area": "华北",
+        "code": 13
+      },
+      {
+        "id": 9,
+        "name": "吉林省",
+        "enName": "Jilin",
+        "enShortName": "JL",
+        "shortName": "吉",
+        "area": "东北",
+        "code": 22
+      },
+      {
+        "id": 32,
+        "name": "内蒙古自治区",
+        "enName": "InnerMongoria",
+        "enShortName": "IM",
+        "shortName": "蒙",
+        "area": "华北",
+        "code": 15
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "沈阳市",
+        "pid": 8
+      },
+      {
+        "cid": 2,
+        "name": "大连市",
+        "pid": 8
+      },
+      {
+        "cid": 3,
+        "name": "鞍山市",
+        "pid": 8
+      },
+      {
+        "cid": 4,
+        "name": "抚顺市",
+        "pid": 8
+      },
+      {
+        "cid": 5,
+        "name": "本溪市",
+        "pid": 8
+      },
+      {
+        "cid": 6,
+        "name": "丹东市",
+        "pid": 8
+      },
+      {
+        "cid": 7,
+        "name": "锦州市",
+        "pid": 8
+      },
+      {
+        "cid": 8,
+        "name": "营口市",
+        "pid": 8
+      },
+      {
+        "cid": 9,
+        "name": "阜新市",
+        "pid": 8
+      },
+      {
+        "cid": 10,
+        "name": "辽阳市",
+        "pid": 8
+      },
+      {
+        "cid": 11,
+        "name": "盘锦市",
+        "pid": 8
+      },
+      {
+        "cid": 12,
+        "name": "铁岭市",
+        "pid": 8
+      },
+      {
+        "cid": 13,
+        "name": "朝阳市",
+        "pid": 8
+      },
+      {
+        "cid": 14,
+        "name": "葫芦岛市",
+        "pid": 8
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "青海省",
+    "enName": "Qinghai",
+    "enShortName": "QH",
+    "shortName": "青",
+    "area": "西北",
+    "code": 63,
+    "capital": {
+      "cid": 1,
+      "name": "西宁市",
+      "pid": 26
+    },
+    "adjoins": [
+      {
+        "id": 21,
+        "name": "甘肃省",
+        "enName": "Gansu",
+        "enShortName": "GS",
+        "shortName": "甘",
+        "area": "西北",
+        "code": 62
+      },
+      {
+        "id": 22,
+        "name": "四川省",
+        "enName": "Sichuan",
+        "enShortName": "SC",
+        "shortName": "川",
+        "area": "西南",
+        "code": 51
+      },
+      {
+        "id": 29,
+        "name": "西藏自治区",
+        "enName": "Tibet",
+        "enShortName": "XZ",
+        "shortName": "藏",
+        "area": "西南",
+        "code": 54
+      },
+      {
+        "id": 31,
+        "name": "新疆维吾尔自治区",
+        "enName": "Xinjiang",
+        "enShortName": "XJ",
+        "shortName": "新",
+        "area": "西北",
+        "code": 65
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "西宁市",
+        "pid": 26
+      },
+      {
+        "cid": 2,
+        "name": "海东地区",
+        "pid": 26
+      },
+      {
+        "cid": 3,
+        "name": "海北藏族自治州",
+        "pid": 26
+      },
+      {
+        "cid": 4,
+        "name": "黄南藏族自治州",
+        "pid": 26
+      },
+      {
+        "cid": 5,
+        "name": "海南藏族自治州",
+        "pid": 26
+      },
+      {
+        "cid": 6,
+        "name": "果洛藏族自治州",
+        "pid": 26
+      },
+      {
+        "cid": 7,
+        "name": "玉树藏族自治州",
+        "pid": 26
+      },
+      {
+        "cid": 8,
+        "name": "海西蒙古族藏族自治州",
+        "pid": 26
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "云南省",
+    "enName": "Yunnan",
+    "enShortName": "YN",
+    "shortName": "滇",
+    "area": "西南",
+    "code": 53,
+    "capital": {
+      "cid": 1,
+      "name": "昆明市",
+      "pid": 25
+    },
+    "adjoins": [
+      {
+        "id": 22,
+        "name": "四川省",
+        "enName": "Sichuan",
+        "enShortName": "SC",
+        "shortName": "川",
+        "area": "西南",
+        "code": 51
+      },
+      {
+        "id": 23,
+        "name": "贵州省",
+        "enName": "Guizhou",
+        "enShortName": "GZ",
+        "shortName": "黔",
+        "area": "西南",
+        "code": 52
+      },
+      {
+        "id": 28,
+        "name": "广西壮族自治区",
+        "enName": "Guangxi",
+        "enShortName": "GX",
+        "shortName": "桂",
+        "area": "华南",
+        "code": 45
+      },
+      {
+        "id": 29,
+        "name": "西藏自治区",
+        "enName": "Tibet",
+        "enShortName": "XZ",
+        "shortName": "藏",
+        "area": "西南",
+        "code": 54
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "昆明市",
+        "pid": 25
+      },
+      {
+        "cid": 2,
+        "name": "曲靖市",
+        "pid": 25
+      },
+      {
+        "cid": 3,
+        "name": "玉溪市",
+        "pid": 25
+      },
+      {
+        "cid": 4,
+        "name": "保山市",
+        "pid": 25
+      },
+      {
+        "cid": 5,
+        "name": "昭通市",
+        "pid": 25
+      },
+      {
+        "cid": 6,
+        "name": "丽江市",
+        "pid": 25
+      },
+      {
+        "cid": 7,
+        "name": "思茅市",
+        "pid": 25
+      },
+      {
+        "cid": 8,
+        "name": "临沧市",
+        "pid": 25
+      },
+      {
+        "cid": 9,
+        "name": "文山壮族苗族自治州",
+        "pid": 25
+      },
+      {
+        "cid": 10,
+        "name": "红河哈尼族彝族自治州",
+        "pid": 25
+      },
+      {
+        "cid": 11,
+        "name": "西双版纳傣族自治州",
+        "pid": 25
+      },
+      {
+        "cid": 12,
+        "name": "楚雄彝族自治州",
+        "pid": 25
+      },
+      {
+        "cid": 13,
+        "name": "大理白族自治州",
+        "pid": 25
+      },
+      {
+        "cid": 14,
+        "name": "德宏傣族景颇族自治州",
+        "pid": 25
+      },
+      {
+        "cid": 15,
+        "name": "怒江傈傈族自治州",
+        "pid": 25
+      },
+      {
+        "cid": 16,
+        "name": "迪庆藏族自治州",
+        "pid": 25
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "山东省",
+    "enName": "Shandong",
+    "enShortName": "SD",
+    "shortName": "鲁",
+    "area": "华东",
+    "code": 37,
+    "capital": {
+      "cid": 1,
+      "name": "济南市",
+      "pid": 16
+    },
+    "adjoins": [
+      {
+        "id": 5,
+        "name": "河北省",
+        "enName": "Hebei",
+        "enShortName": "HE",
+        "shortName": "冀",
+        "area": "华北",
+        "code": 13
+      },
+      {
+        "id": 11,
+        "name": "江苏省",
+        "enName": "Jiangsu",
+        "enShortName": "JS",
+        "shortName": "苏",
+        "area": "华东",
+        "code": 32
+      },
+      {
+        "id": 13,
+        "name": "安徽省",
+        "enName": "Anhui",
+        "enShortName": "AH",
+        "shortName": "皖",
+        "area": "华东",
+        "code": 34
+      },
+      {
+        "id": 17,
+        "name": "河南省",
+        "enName": "Henan",
+        "enShortName": "HA",
+        "shortName": "豫",
+        "area": "华中",
+        "code": 41
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "济南市",
+        "pid": 16
+      },
+      {
+        "cid": 2,
+        "name": "青岛市",
+        "pid": 16
+      },
+      {
+        "cid": 3,
+        "name": "淄博市",
+        "pid": 16
+      },
+      {
+        "cid": 4,
+        "name": "枣庄市",
+        "pid": 16
+      },
+      {
+        "cid": 5,
+        "name": "东营市",
+        "pid": 16
+      },
+      {
+        "cid": 6,
+        "name": "烟台市",
+        "pid": 16
+      },
+      {
+        "cid": 7,
+        "name": "潍坊市",
+        "pid": 16
+      },
+      {
+        "cid": 8,
+        "name": "济宁市",
+        "pid": 16
+      },
+      {
+        "cid": 9,
+        "name": "泰安市",
+        "pid": 16
+      },
+      {
+        "cid": 10,
+        "name": "威海市",
+        "pid": 16
+      },
+      {
+        "cid": 11,
+        "name": "日照市",
+        "pid": 16
+      },
+      {
+        "cid": 12,
+        "name": "莱芜市",
+        "pid": 16
+      },
+      {
+        "cid": 13,
+        "name": "临沂市",
+        "pid": 16
+      },
+      {
+        "cid": 14,
+        "name": "德州市",
+        "pid": 16
+      },
+      {
+        "cid": 15,
+        "name": "聊城市",
+        "pid": 16
+      },
+      {
+        "cid": 16,
+        "name": "滨州市",
+        "pid": 16
+      },
+      {
+        "cid": 17,
+        "name": "菏泽市",
+        "pid": 16
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "江苏省",
+    "enName": "Jiangsu",
+    "enShortName": "JS",
+    "shortName": "苏",
+    "area": "华东",
+    "code": 32,
+    "capital": {
+      "cid": 1,
+      "name": "南京市",
+      "pid": 11
+    },
+    "adjoins": [
+      {
+        "id": 3,
+        "name": "上海市",
+        "enName": "Shanghai",
+        "enShortName": "SH",
+        "shortName": "沪",
+        "area": "华东",
+        "code": 31
+      },
+      {
+        "id": 12,
+        "name": "浙江省",
+        "enName": "Zhejiang",
+        "enShortName": "ZJ",
+        "shortName": "浙",
+        "area": "华东",
+        "code": 33
+      },
+      {
+        "id": 13,
+        "name": "安徽省",
+        "enName": "Anhui",
+        "enShortName": "AH",
+        "shortName": "皖",
+        "area": "华东",
+        "code": 34
+      },
+      {
+        "id": 16,
+        "name": "山东省",
+        "enName": "Shandong",
+        "enShortName": "SD",
+        "shortName": "鲁",
+        "area": "华东",
+        "code": 37
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "南京市",
+        "pid": 11
+      },
+      {
+        "cid": 2,
+        "name": "无锡市",
+        "pid": 11
+      },
+      {
+        "cid": 3,
+        "name": "徐州市",
+        "pid": 11
+      },
+      {
+        "cid": 4,
+        "name": "常州市",
+        "pid": 11
+      },
+      {
+        "cid": 5,
+        "name": "苏州市",
+        "pid": 11
+      },
+      {
+        "cid": 6,
+        "name": "南通市",
+        "pid": 11
+      },
+      {
+        "cid": 7,
+        "name": "连云港市",
+        "pid": 11
+      },
+      {
+        "cid": 8,
+        "name": "淮安市",
+        "pid": 11
+      },
+      {
+        "cid": 9,
+        "name": "盐城市",
+        "pid": 11
+      },
+      {
+        "cid": 10,
+        "name": "扬州市",
+        "pid": 11
+      },
+      {
+        "cid": 11,
+        "name": "镇江市",
+        "pid": 11
+      },
+      {
+        "cid": 12,
+        "name": "泰州市",
+        "pid": 11
+      },
+      {
+        "cid": 13,
+        "name": "宿迁市",
+        "pid": 11
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "山西省",
+    "enName": "Shanxi",
+    "enShortName": "SX",
+    "shortName": "晋",
+    "area": "华北",
+    "code": 14,
+    "capital": {
+      "cid": 1,
+      "name": "太原市",
+      "pid": 6
+    },
+    "adjoins": [
+      {
+        "id": 5,
+        "name": "河北省",
+        "enName": "Hebei",
+        "enShortName": "HE",
+        "shortName": "冀",
+        "area": "华北",
+        "code": 13
+      },
+      {
+        "id": 17,
+        "name": "河南省",
+        "enName": "Henan",
+        "enShortName": "HA",
+        "shortName": "豫",
+        "area": "华中",
+        "code": 41
+      },
+      {
+        "id": 27,
+        "name": "陕西省",
+        "enName": "Shaanxi",
+        "enShortName": "SN",
+        "shortName": "陕",
+        "area": "西北",
+        "code": 61
+      },
+      {
+        "id": 32,
+        "name": "内蒙古自治区",
+        "enName": "InnerMongoria",
+        "enShortName": "IM",
+        "shortName": "蒙",
+        "area": "华北",
+        "code": 15
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "太原市",
+        "pid": 6
+      },
+      {
+        "cid": 2,
+        "name": "大同市",
+        "pid": 6
+      },
+      {
+        "cid": 3,
+        "name": "阳泉市",
+        "pid": 6
+      },
+      {
+        "cid": 4,
+        "name": "长治市",
+        "pid": 6
+      },
+      {
+        "cid": 5,
+        "name": "晋城市",
+        "pid": 6
+      },
+      {
+        "cid": 6,
+        "name": "朔州市",
+        "pid": 6
+      },
+      {
+        "cid": 7,
+        "name": "晋中市",
+        "pid": 6
+      },
+      {
+        "cid": 8,
+        "name": "运城市",
+        "pid": 6
+      },
+      {
+        "cid": 9,
+        "name": "忻州市",
+        "pid": 6
+      },
+      {
+        "cid": 10,
+        "name": "临汾市",
+        "pid": 6
+      },
+      {
+        "cid": 11,
+        "name": "吕梁市",
+        "pid": 6
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "贵州省",
+    "enName": "Guizhou",
+    "enShortName": "GZ",
+    "shortName": "黔",
+    "area": "西南",
+    "code": 52,
+    "capital": {
+      "cid": 1,
+      "name": "贵阳市",
+      "pid": 23
+    },
+    "adjoins": [
+      {
+        "id": 4,
+        "name": "重庆市",
+        "enName": "Chongqing",
+        "enShortName": "CQ",
+        "shortName": "渝",
+        "area": "西南",
+        "code": 50
+      },
+      {
+        "id": 19,
+        "name": "湖南省",
+        "enName": "Hunan",
+        "enShortName": "HN",
+        "shortName": "湘",
+        "area": "华中",
+        "code": 43
+      },
+      {
+        "id": 22,
+        "name": "四川省",
+        "enName": "Sichuan",
+        "enShortName": "SC",
+        "shortName": "川",
+        "area": "西南",
+        "code": 51
+      },
+      {
+        "id": 25,
+        "name": "云南省",
+        "enName": "Yunnan",
+        "enShortName": "YN",
+        "shortName": "滇",
+        "area": "西南",
+        "code": 53
+      },
+      {
+        "id": 28,
+        "name": "广西壮族自治区",
+        "enName": "Guangxi",
+        "enShortName": "GX",
+        "shortName": "桂",
+        "area": "华南",
+        "code": 45
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "贵阳市",
+        "pid": 23
+      },
+      {
+        "cid": 2,
+        "name": "六盘水市",
+        "pid": 23
+      },
+      {
+        "cid": 3,
+        "name": "遵义市",
+        "pid": 23
+      },
+      {
+        "cid": 4,
+        "name": "安顺市",
+        "pid": 23
+      },
+      {
+        "cid": 5,
+        "name": "铜仁地区",
+        "pid": 23
+      },
+      {
+        "cid": 6,
+        "name": "毕节地区",
+        "pid": 23
+      },
+      {
+        "cid": 7,
+        "name": "黔西南布依族苗族自治州",
+        "pid": 23
+      },
+      {
+        "cid": 8,
+        "name": "黔东南苗族侗族自治州",
+        "pid": 23
+      },
+      {
+        "cid": 9,
+        "name": "黔南布依族苗族自治州",
+        "pid": 23
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "湖南省",
+    "enName": "Hunan",
+    "enShortName": "HN",
+    "shortName": "湘",
+    "area": "华中",
+    "code": 43,
+    "capital": {
+      "cid": 1,
+      "name": "长沙市",
+      "pid": 19
+    },
+    "adjoins": [
+      {
+        "id": 4,
+        "name": "重庆市",
+        "enName": "Chongqing",
+        "enShortName": "CQ",
+        "shortName": "渝",
+        "area": "西南",
+        "code": 50
+      },
+      {
+        "id": 15,
+        "name": "江西省",
+        "enName": "Jiangxi",
+        "enShortName": "JX",
+        "shortName": "赣",
+        "area": "华东",
+        "code": 36
+      },
+      {
+        "id": 18,
+        "name": "湖北省",
+        "enName": "Hubei",
+        "enShortName": "HB",
+        "shortName": "鄂",
+        "area": "华中",
+        "code": 42
+      },
+      {
+        "id": 20,
+        "name": "广东省",
+        "enName": "Guangdong",
+        "enShortName": "GD",
+        "shortName": "粤",
+        "area": "华南",
+        "code": 44
+      },
+      {
+        "id": 23,
+        "name": "贵州省",
+        "enName": "Guizhou",
+        "enShortName": "GZ",
+        "shortName": "黔",
+        "area": "西南",
+        "code": 52
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "长沙市",
+        "pid": 19
+      },
+      {
+        "cid": 2,
+        "name": "株洲市",
+        "pid": 19
+      },
+      {
+        "cid": 3,
+        "name": "湘潭市",
+        "pid": 19
+      },
+      {
+        "cid": 4,
+        "name": "衡阳市",
+        "pid": 19
+      },
+      {
+        "cid": 5,
+        "name": "邵阳市",
+        "pid": 19
+      },
+      {
+        "cid": 6,
+        "name": "岳阳市",
+        "pid": 19
+      },
+      {
+        "cid": 7,
+        "name": "常德市",
+        "pid": 19
+      },
+      {
+        "cid": 8,
+        "name": "张家界市",
+        "pid": 19
+      },
+      {
+        "cid": 9,
+        "name": "益阳市",
+        "pid": 19
+      },
+      {
+        "cid": 10,
+        "name": "郴州市",
+        "pid": 19
+      },
+      {
+        "cid": 11,
+        "name": "永州市",
+        "pid": 19
+      },
+      {
+        "cid": 12,
+        "name": "怀化市",
+        "pid": 19
+      },
+      {
+        "cid": 13,
+        "name": "娄底市",
+        "pid": 19
+      },
+      {
+        "cid": 14,
+        "name": "湘西土家族苗族自治州",
+        "pid": 19
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "浙江省",
+    "enName": "Zhejiang",
+    "enShortName": "ZJ",
+    "shortName": "浙",
+    "area": "华东",
+    "code": 33,
+    "capital": {
+      "cid": 1,
+      "name": "杭州市",
+      "pid": 12
+    },
+    "adjoins": [
+      {
+        "id": 3,
+        "name": "上海市",
+        "enName": "Shanghai",
+        "enShortName": "SH",
+        "shortName": "沪",
+        "area": "华东",
+        "code": 31
+      },
+      {
+        "id": 11,
+        "name": "江苏省",
+        "enName": "Jiangsu",
+        "enShortName": "JS",
+        "shortName": "苏",
+        "area": "华东",
+        "code": 32
+      },
+      {
+        "id": 13,
+        "name": "安徽省",
+        "enName": "Anhui",
+        "enShortName": "AH",
+        "shortName": "皖",
+        "area": "华东",
+        "code": 34
+      },
+      {
+        "id": 14,
+        "name": "福建省",
+        "enName": "Fujian",
+        "enShortName": "FJ",
+        "shortName": "闽",
+        "area": "华东",
+        "code": 35
+      },
+      {
+        "id": 15,
+        "name": "江西省",
+        "enName": "Jiangxi",
+        "enShortName": "JX",
+        "shortName": "赣",
+        "area": "华东",
+        "code": 36
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "杭州市",
+        "pid": 12
+      },
+      {
+        "cid": 2,
+        "name": "宁波市",
+        "pid": 12
+      },
+      {
+        "cid": 3,
+        "name": "温州市",
+        "pid": 12
+      },
+      {
+        "cid": 4,
+        "name": "嘉兴市",
+        "pid": 12
+      },
+      {
+        "cid": 5,
+        "name": "湖州市",
+        "pid": 12
+      },
+      {
+        "cid": 6,
+        "name": "绍兴市",
+        "pid": 12
+      },
+      {
+        "cid": 7,
+        "name": "金华市",
+        "pid": 12
+      },
+      {
+        "cid": 8,
+        "name": "衢州市",
+        "pid": 12
+      },
+      {
+        "cid": 9,
+        "name": "舟山市",
+        "pid": 12
+      },
+      {
+        "cid": 10,
+        "name": "台州市",
+        "pid": 12
+      },
+      {
+        "cid": 11,
+        "name": "丽水市",
+        "pid": 12
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "重庆市",
+    "enName": "Chongqing",
+    "enShortName": "CQ",
+    "shortName": "渝",
+    "area": "西南",
+    "code": 50,
+    "capital": {
+      "cid": 1,
+      "name": "重庆市",
+      "pid": 4
+    },
+    "adjoins": [
+      {
+        "id": 18,
+        "name": "湖北省",
+        "enName": "Hubei",
+        "enShortName": "HB",
+        "shortName": "鄂",
+        "area": "华中",
+        "code": 42
+      },
+      {
+        "id": 19,
+        "name": "湖南省",
+        "enName": "Hunan",
+        "enShortName": "HN",
+        "shortName": "湘",
+        "area": "华中",
+        "code": 43
+      },
+      {
+        "id": 22,
+        "name": "四川省",
+        "enName": "Sichuan",
+        "enShortName": "SC",
+        "shortName": "川",
+        "area": "西南",
+        "code": 51
+      },
+      {
+        "id": 23,
+        "name": "贵州省",
+        "enName": "Guizhou",
+        "enShortName": "GZ",
+        "shortName": "黔",
+        "area": "西南",
+        "code": 52
+      },
+      {
+        "id": 27,
+        "name": "陕西省",
+        "enName": "Shaanxi",
+        "enShortName": "SN",
+        "shortName": "陕",
+        "area": "西北",
+        "code": 61
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "重庆市",
+        "pid": 4
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "甘肃省",
+    "enName": "Gansu",
+    "enShortName": "GS",
+    "shortName": "甘",
+    "area": "西北",
+    "code": 62,
+    "capital": {
+      "cid": 1,
+      "name": "兰州市",
+      "pid": 21
+    },
+    "adjoins": [
+      {
+        "id": 22,
+        "name": "四川省",
+        "enName": "Sichuan",
+        "enShortName": "SC",
+        "shortName": "川",
+        "area": "西南",
+        "code": 51
+      },
+      {
+        "id": 26,
+        "name": "青海省",
+        "enName": "Qinghai",
+        "enShortName": "QH",
+        "shortName": "青",
+        "area": "西北",
+        "code": 63
+      },
+      {
+        "id": 27,
+        "name": "陕西省",
+        "enName": "Shaanxi",
+        "enShortName": "SN",
+        "shortName": "陕",
+        "area": "西北",
+        "code": 61
+      },
+      {
+        "id": 30,
+        "name": "宁夏回族自治区",
+        "enName": "Ningxia",
+        "enShortName": "NX",
+        "shortName": "宁",
+        "area": "西北",
+        "code": 64
+      },
+      {
+        "id": 31,
+        "name": "新疆维吾尔自治区",
+        "enName": "Xinjiang",
+        "enShortName": "XJ",
+        "shortName": "新",
+        "area": "西北",
+        "code": 65
+      },
+      {
+        "id": 32,
+        "name": "内蒙古自治区",
+        "enName": "InnerMongoria",
+        "enShortName": "IM",
+        "shortName": "蒙",
+        "area": "华北",
+        "code": 15
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "兰州市",
+        "pid": 21
+      },
+      {
+        "cid": 2,
+        "name": "金昌市",
+        "pid": 21
+      },
+      {
+        "cid": 3,
+        "name": "白银市",
+        "pid": 21
+      },
+      {
+        "cid": 4,
+        "name": "天水市",
+        "pid": 21
+      },
+      {
+        "cid": 5,
+        "name": "嘉峪关市",
+        "pid": 21
+      },
+      {
+        "cid": 6,
+        "name": "武威市",
+        "pid": 21
+      },
+      {
+        "cid": 7,
+        "name": "张掖市",
+        "pid": 21
+      },
+      {
+        "cid": 8,
+        "name": "平凉市",
+        "pid": 21
+      },
+      {
+        "cid": 9,
+        "name": "酒泉市",
+        "pid": 21
+      },
+      {
+        "cid": 10,
+        "name": "庆阳市",
+        "pid": 21
+      },
+      {
+        "cid": 11,
+        "name": "定西市",
+        "pid": 21
+      },
+      {
+        "cid": 12,
+        "name": "陇南市",
+        "pid": 21
+      },
+      {
+        "cid": 13,
+        "name": "临夏回族自治州",
+        "pid": 21
+      },
+      {
+        "cid": 14,
+        "name": "甘南藏族自治州",
+        "pid": 21
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "湖北省",
+    "enName": "Hubei",
+    "enShortName": "HB",
+    "shortName": "鄂",
+    "area": "华中",
+    "code": 42,
+    "capital": {
+      "cid": 1,
+      "name": "武汉市",
+      "pid": 18
+    },
+    "adjoins": [
+      {
+        "id": 4,
+        "name": "重庆市",
+        "enName": "Chongqing",
+        "enShortName": "CQ",
+        "shortName": "渝",
+        "area": "西南",
+        "code": 50
+      },
+      {
+        "id": 13,
+        "name": "安徽省",
+        "enName": "Anhui",
+        "enShortName": "AH",
+        "shortName": "皖",
+        "area": "华东",
+        "code": 34
+      },
+      {
+        "id": 15,
+        "name": "江西省",
+        "enName": "Jiangxi",
+        "enShortName": "JX",
+        "shortName": "赣",
+        "area": "华东",
+        "code": 36
+      },
+      {
+        "id": 17,
+        "name": "河南省",
+        "enName": "Henan",
+        "enShortName": "HA",
+        "shortName": "豫",
+        "area": "华中",
+        "code": 41
+      },
+      {
+        "id": 19,
+        "name": "湖南省",
+        "enName": "Hunan",
+        "enShortName": "HN",
+        "shortName": "湘",
+        "area": "华中",
+        "code": 43
+      },
+      {
+        "id": 27,
+        "name": "陕西省",
+        "enName": "Shaanxi",
+        "enShortName": "SN",
+        "shortName": "陕",
+        "area": "西北",
+        "code": 61
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "武汉市",
+        "pid": 18
+      },
+      {
+        "cid": 2,
+        "name": "黄石市",
+        "pid": 18
+      },
+      {
+        "cid": 3,
+        "name": "十堰市",
+        "pid": 18
+      },
+      {
+        "cid": 4,
+        "name": "荆州市",
+        "pid": 18
+      },
+      {
+        "cid": 5,
+        "name": "宜昌市",
+        "pid": 18
+      },
+      {
+        "cid": 6,
+        "name": "襄樊市",
+        "pid": 18
+      },
+      {
+        "cid": 7,
+        "name": "鄂州市",
+        "pid": 18
+      },
+      {
+        "cid": 8,
+        "name": "荆门市",
+        "pid": 18
+      },
+      {
+        "cid": 9,
+        "name": "孝感市",
+        "pid": 18
+      },
+      {
+        "cid": 10,
+        "name": "黄冈市",
+        "pid": 18
+      },
+      {
+        "cid": 11,
+        "name": "咸宁市",
+        "pid": 18
+      },
+      {
+        "cid": 12,
+        "name": "随州市",
+        "pid": 18
+      },
+      {
+        "cid": 13,
+        "name": "仙桃市",
+        "pid": 18
+      },
+      {
+        "cid": 14,
+        "name": "天门市",
+        "pid": 18
+      },
+      {
+        "cid": 15,
+        "name": "潜江市",
+        "pid": 18
+      },
+      {
+        "cid": 16,
+        "name": "神农架林区",
+        "pid": 18
+      },
+      {
+        "cid": 17,
+        "name": "恩施土家族苗族自治州",
+        "pid": 18
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "河南省",
+    "enName": "Henan",
+    "enShortName": "HA",
+    "shortName": "豫",
+    "area": "华中",
+    "code": 41,
+    "capital": {
+      "cid": 1,
+      "name": "郑州市",
+      "pid": 17
+    },
+    "adjoins": [
+      {
+        "id": 5,
+        "name": "河北省",
+        "enName": "Hebei",
+        "enShortName": "HE",
+        "shortName": "冀",
+        "area": "华北",
+        "code": 13
+      },
+      {
+        "id": 6,
+        "name": "山西省",
+        "enName": "Shanxi",
+        "enShortName": "SX",
+        "shortName": "晋",
+        "area": "华北",
+        "code": 14
+      },
+      {
+        "id": 13,
+        "name": "安徽省",
+        "enName": "Anhui",
+        "enShortName": "AH",
+        "shortName": "皖",
+        "area": "华东",
+        "code": 34
+      },
+      {
+        "id": 16,
+        "name": "山东省",
+        "enName": "Shandong",
+        "enShortName": "SD",
+        "shortName": "鲁",
+        "area": "华东",
+        "code": 37
+      },
+      {
+        "id": 18,
+        "name": "湖北省",
+        "enName": "Hubei",
+        "enShortName": "HB",
+        "shortName": "鄂",
+        "area": "华中",
+        "code": 42
+      },
+      {
+        "id": 27,
+        "name": "陕西省",
+        "enName": "Shaanxi",
+        "enShortName": "SN",
+        "shortName": "陕",
+        "area": "西北",
+        "code": 61
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "郑州市",
+        "pid": 17
+      },
+      {
+        "cid": 2,
+        "name": "开封市",
+        "pid": 17
+      },
+      {
+        "cid": 3,
+        "name": "洛阳市",
+        "pid": 17
+      },
+      {
+        "cid": 4,
+        "name": "平顶山市",
+        "pid": 17
+      },
+      {
+        "cid": 5,
+        "name": "安阳市",
+        "pid": 17
+      },
+      {
+        "cid": 6,
+        "name": "鹤壁市",
+        "pid": 17
+      },
+      {
+        "cid": 7,
+        "name": "新乡市",
+        "pid": 17
+      },
+      {
+        "cid": 8,
+        "name": "焦作市",
+        "pid": 17
+      },
+      {
+        "cid": 9,
+        "name": "濮阳市",
+        "pid": 17
+      },
+      {
+        "cid": 10,
+        "name": "许昌市",
+        "pid": 17
+      },
+      {
+        "cid": 11,
+        "name": "漯河市",
+        "pid": 17
+      },
+      {
+        "cid": 12,
+        "name": "三门峡市",
+        "pid": 17
+      },
+      {
+        "cid": 13,
+        "name": "南阳市",
+        "pid": 17
+      },
+      {
+        "cid": 14,
+        "name": "商丘市",
+        "pid": 17
+      },
+      {
+        "cid": 15,
+        "name": "信阳市",
+        "pid": 17
+      },
+      {
+        "cid": 16,
+        "name": "周口市",
+        "pid": 17
+      },
+      {
+        "cid": 17,
+        "name": "驻马店市",
+        "pid": 17
+      },
+      {
+        "cid": 18,
+        "name": "济源市",
+        "pid": 17
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "江西省",
+    "enName": "Jiangxi",
+    "enShortName": "JX",
+    "shortName": "赣",
+    "area": "华东",
+    "code": 36,
+    "capital": {
+      "cid": 1,
+      "name": "南昌市",
+      "pid": 15
+    },
+    "adjoins": [
+      {
+        "id": 12,
+        "name": "浙江省",
+        "enName": "Zhejiang",
+        "enShortName": "ZJ",
+        "shortName": "浙",
+        "area": "华东",
+        "code": 33
+      },
+      {
+        "id": 13,
+        "name": "安徽省",
+        "enName": "Anhui",
+        "enShortName": "AH",
+        "shortName": "皖",
+        "area": "华东",
+        "code": 34
+      },
+      {
+        "id": 14,
+        "name": "福建省",
+        "enName": "Fujian",
+        "enShortName": "FJ",
+        "shortName": "闽",
+        "area": "华东",
+        "code": 35
+      },
+      {
+        "id": 18,
+        "name": "湖北省",
+        "enName": "Hubei",
+        "enShortName": "HB",
+        "shortName": "鄂",
+        "area": "华中",
+        "code": 42
+      },
+      {
+        "id": 19,
+        "name": "湖南省",
+        "enName": "Hunan",
+        "enShortName": "HN",
+        "shortName": "湘",
+        "area": "华中",
+        "code": 43
+      },
+      {
+        "id": 20,
+        "name": "广东省",
+        "enName": "Guangdong",
+        "enShortName": "GD",
+        "shortName": "粤",
+        "area": "华南",
+        "code": 44
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "南昌市",
+        "pid": 15
+      },
+      {
+        "cid": 2,
+        "name": "景德镇市",
+        "pid": 15
+      },
+      {
+        "cid": 3,
+        "name": "萍乡市",
+        "pid": 15
+      },
+      {
+        "cid": 4,
+        "name": "九江市",
+        "pid": 15
+      },
+      {
+        "cid": 5,
+        "name": "新余市",
+        "pid": 15
+      },
+      {
+        "cid": 6,
+        "name": "鹰潭市",
+        "pid": 15
+      },
+      {
+        "cid": 7,
+        "name": "赣州市",
+        "pid": 15
+      },
+      {
+        "cid": 8,
+        "name": "吉安市",
+        "pid": 15
+      },
+      {
+        "cid": 9,
+        "name": "宜春市",
+        "pid": 15
+      },
+      {
+        "cid": 10,
+        "name": "抚州市",
+        "pid": 15
+      },
+      {
+        "cid": 11,
+        "name": "上饶市",
+        "pid": 15
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "安徽省",
+    "enName": "Anhui",
+    "enShortName": "AH",
+    "shortName": "皖",
+    "area": "华东",
+    "code": 34,
+    "capital": {
+      "cid": 1,
+      "name": "合肥市",
+      "pid": 13
+    },
+    "adjoins": [
+      {
+        "id": 11,
+        "name": "江苏省",
+        "enName": "Jiangsu",
+        "enShortName": "JS",
+        "shortName": "苏",
+        "area": "华东",
+        "code": 32
+      },
+      {
+        "id": 12,
+        "name": "浙江省",
+        "enName": "Zhejiang",
+        "enShortName": "ZJ",
+        "shortName": "浙",
+        "area": "华东",
+        "code": 33
+      },
+      {
+        "id": 15,
+        "name": "江西省",
+        "enName": "Jiangxi",
+        "enShortName": "JX",
+        "shortName": "赣",
+        "area": "华东",
+        "code": 36
+      },
+      {
+        "id": 16,
+        "name": "山东省",
+        "enName": "Shandong",
+        "enShortName": "SD",
+        "shortName": "鲁",
+        "area": "华东",
+        "code": 37
+      },
+      {
+        "id": 17,
+        "name": "河南省",
+        "enName": "Henan",
+        "enShortName": "HA",
+        "shortName": "豫",
+        "area": "华中",
+        "code": 41
+      },
+      {
+        "id": 18,
+        "name": "湖北省",
+        "enName": "Hubei",
+        "enShortName": "HB",
+        "shortName": "鄂",
+        "area": "华中",
+        "code": 42
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "合肥市",
+        "pid": 13
+      },
+      {
+        "cid": 2,
+        "name": "芜湖市",
+        "pid": 13
+      },
+      {
+        "cid": 3,
+        "name": "蚌埠市",
+        "pid": 13
+      },
+      {
+        "cid": 4,
+        "name": "淮南市",
+        "pid": 13
+      },
+      {
+        "cid": 5,
+        "name": "马鞍山市",
+        "pid": 13
+      },
+      {
+        "cid": 6,
+        "name": "淮北市",
+        "pid": 13
+      },
+      {
+        "cid": 7,
+        "name": "铜陵市",
+        "pid": 13
+      },
+      {
+        "cid": 8,
+        "name": "安庆市",
+        "pid": 13
+      },
+      {
+        "cid": 9,
+        "name": "黄山市",
+        "pid": 13
+      },
+      {
+        "cid": 10,
+        "name": "滁州市",
+        "pid": 13
+      },
+      {
+        "cid": 11,
+        "name": "阜阳市",
+        "pid": 13
+      },
+      {
+        "cid": 12,
+        "name": "宿州市",
+        "pid": 13
+      },
+      {
+        "cid": 13,
+        "name": "巢湖市",
+        "pid": 13
+      },
+      {
+        "cid": 14,
+        "name": "六安市",
+        "pid": 13
+      },
+      {
+        "cid": 15,
+        "name": "亳州市",
+        "pid": 13
+      },
+      {
+        "cid": 16,
+        "name": "池州市",
+        "pid": 13
+      },
+      {
+        "cid": 17,
+        "name": "宣城市",
+        "pid": 13
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "河北省",
+    "enName": "Hebei",
+    "enShortName": "HE",
+    "shortName": "冀",
+    "area": "华北",
+    "code": 13,
+    "capital": {
+      "cid": 1,
+      "name": "石家庄市",
+      "pid": 5
+    },
+    "adjoins": [
+      {
+        "id": 1,
+        "name": "北京市",
+        "enName": "Beijing",
+        "enShortName": "BJ",
+        "shortName": "京",
+        "area": "华北",
+        "code": 11
+      },
+      {
+        "id": 2,
+        "name": "天津市",
+        "enName": "Tianjing",
+        "enShortName": "TJ",
+        "shortName": "津",
+        "area": "华北",
+        "code": 12
+      },
+      {
+        "id": 6,
+        "name": "山西省",
+        "enName": "Shanxi",
+        "enShortName": "SX",
+        "shortName": "晋",
+        "area": "华北",
+        "code": 14
+      },
+      {
+        "id": 8,
+        "name": "辽宁省",
+        "enName": "Liaoning",
+        "enShortName": "LN",
+        "shortName": "辽",
+        "area": "东北",
+        "code": 21
+      },
+      {
+        "id": 16,
+        "name": "山东省",
+        "enName": "Shandong",
+        "enShortName": "SD",
+        "shortName": "鲁",
+        "area": "华东",
+        "code": 37
+      },
+      {
+        "id": 17,
+        "name": "河南省",
+        "enName": "Henan",
+        "enShortName": "HA",
+        "shortName": "豫",
+        "area": "华中",
+        "code": 41
+      },
+      {
+        "id": 32,
+        "name": "内蒙古自治区",
+        "enName": "InnerMongoria",
+        "enShortName": "IM",
+        "shortName": "蒙",
+        "area": "华北",
+        "code": 15
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "石家庄市",
+        "pid": 5
+      },
+      {
+        "cid": 2,
+        "name": "唐山市",
+        "pid": 5
+      },
+      {
+        "cid": 3,
+        "name": "秦皇岛市",
+        "pid": 5
+      },
+      {
+        "cid": 4,
+        "name": "邯郸市",
+        "pid": 5
+      },
+      {
+        "cid": 5,
+        "name": "邢台市",
+        "pid": 5
+      },
+      {
+        "cid": 6,
+        "name": "保定市",
+        "pid": 5
+      },
+      {
+        "cid": 7,
+        "name": "张家口市",
+        "pid": 5
+      },
+      {
+        "cid": 8,
+        "name": "承德市",
+        "pid": 5
+      },
+      {
+        "cid": 9,
+        "name": "沧州市",
+        "pid": 5
+      },
+      {
+        "cid": 10,
+        "name": "廊坊市",
+        "pid": 5
+      },
+      {
+        "cid": 11,
+        "name": "衡水市",
+        "pid": 5
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "四川省",
+    "enName": "Sichuan",
+    "enShortName": "SC",
+    "shortName": "川",
+    "area": "西南",
+    "code": 51,
+    "capital": {
+      "cid": 1,
+      "name": "成都市",
+      "pid": 22
+    },
+    "adjoins": [
+      {
+        "id": 4,
+        "name": "重庆市",
+        "enName": "Chongqing",
+        "enShortName": "CQ",
+        "shortName": "渝",
+        "area": "西南",
+        "code": 50
+      },
+      {
+        "id": 21,
+        "name": "甘肃省",
+        "enName": "Gansu",
+        "enShortName": "GS",
+        "shortName": "甘",
+        "area": "西北",
+        "code": 62
+      },
+      {
+        "id": 23,
+        "name": "贵州省",
+        "enName": "Guizhou",
+        "enShortName": "GZ",
+        "shortName": "黔",
+        "area": "西南",
+        "code": 52
+      },
+      {
+        "id": 25,
+        "name": "云南省",
+        "enName": "Yunnan",
+        "enShortName": "YN",
+        "shortName": "滇",
+        "area": "西南",
+        "code": 53
+      },
+      {
+        "id": 26,
+        "name": "青海省",
+        "enName": "Qinghai",
+        "enShortName": "QH",
+        "shortName": "青",
+        "area": "西北",
+        "code": 63
+      },
+      {
+        "id": 27,
+        "name": "陕西省",
+        "enName": "Shaanxi",
+        "enShortName": "SN",
+        "shortName": "陕",
+        "area": "西北",
+        "code": 61
+      },
+      {
+        "id": 29,
+        "name": "西藏自治区",
+        "enName": "Tibet",
+        "enShortName": "XZ",
+        "shortName": "藏",
+        "area": "西南",
+        "code": 54
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "成都市",
+        "pid": 22
+      },
+      {
+        "cid": 2,
+        "name": "自贡市",
+        "pid": 22
+      },
+      {
+        "cid": 3,
+        "name": "攀枝花市",
+        "pid": 22
+      },
+      {
+        "cid": 4,
+        "name": "泸州市",
+        "pid": 22
+      },
+      {
+        "cid": 5,
+        "name": "德阳市",
+        "pid": 22
+      },
+      {
+        "cid": 6,
+        "name": "绵阳市",
+        "pid": 22
+      },
+      {
+        "cid": 7,
+        "name": "广元市",
+        "pid": 22
+      },
+      {
+        "cid": 8,
+        "name": "遂宁市",
+        "pid": 22
+      },
+      {
+        "cid": 9,
+        "name": "内江市",
+        "pid": 22
+      },
+      {
+        "cid": 10,
+        "name": "乐山市",
+        "pid": 22
+      },
+      {
+        "cid": 11,
+        "name": "南充市",
+        "pid": 22
+      },
+      {
+        "cid": 12,
+        "name": "眉山市",
+        "pid": 22
+      },
+      {
+        "cid": 13,
+        "name": "宜宾市",
+        "pid": 22
+      },
+      {
+        "cid": 14,
+        "name": "广安市",
+        "pid": 22
+      },
+      {
+        "cid": 15,
+        "name": "达州市",
+        "pid": 22
+      },
+      {
+        "cid": 16,
+        "name": "雅安市",
+        "pid": 22
+      },
+      {
+        "cid": 17,
+        "name": "巴中市",
+        "pid": 22
+      },
+      {
+        "cid": 18,
+        "name": "资阳市",
+        "pid": 22
+      },
+      {
+        "cid": 19,
+        "name": "阿坝藏族羌族自治州",
+        "pid": 22
+      },
+      {
+        "cid": 20,
+        "name": "甘孜藏族自治州",
+        "pid": 22
+      },
+      {
+        "cid": 21,
+        "name": "凉山彝族自治州",
+        "pid": 22
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "广东省",
+    "enName": "Guangdong",
+    "enShortName": "GD",
+    "shortName": "粤",
+    "area": "华南",
+    "code": 44,
+    "capital": {
+      "cid": 1,
+      "name": "广州市",
+      "pid": 20
+    },
+    "adjoins": [
+      {
+        "id": 14,
+        "name": "福建省",
+        "enName": "Fujian",
+        "enShortName": "FJ",
+        "shortName": "闽",
+        "area": "华东",
+        "code": 35
+      },
+      {
+        "id": 15,
+        "name": "江西省",
+        "enName": "Jiangxi",
+        "enShortName": "JX",
+        "shortName": "赣",
+        "area": "华东",
+        "code": 36
+      },
+      {
+        "id": 19,
+        "name": "湖南省",
+        "enName": "Hunan",
+        "enShortName": "HN",
+        "shortName": "湘",
+        "area": "华中",
+        "code": 43
+      },
+      {
+        "id": 24,
+        "name": "海南省",
+        "enName": "Hainan",
+        "enShortName": "HI",
+        "shortName": "琼",
+        "area": "华南",
+        "code": 46
+      },
+      {
+        "id": 28,
+        "name": "广西壮族自治区",
+        "enName": "Guangxi",
+        "enShortName": "GX",
+        "shortName": "桂",
+        "area": "华南",
+        "code": 45
+      },
+      {
+        "id": 33,
+        "name": "澳门特别行政区",
+        "enName": "Macau",
+        "enShortName": "MO",
+        "shortName": "澳",
+        "area": "华南",
+        "code": 82
+      },
+      {
+        "id": 34,
+        "name": "香港特别行政区",
+        "enName": "HongKong",
+        "enShortName": "HK",
+        "shortName": "港",
+        "area": "华南",
+        "code": 81
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "广州市",
+        "pid": 20
+      },
+      {
+        "cid": 2,
+        "name": "深圳市",
+        "pid": 20
+      },
+      {
+        "cid": 3,
+        "name": "珠海市",
+        "pid": 20
+      },
+      {
+        "cid": 4,
+        "name": "汕头市",
+        "pid": 20
+      },
+      {
+        "cid": 5,
+        "name": "韶关市",
+        "pid": 20
+      },
+      {
+        "cid": 6,
+        "name": "佛山市",
+        "pid": 20
+      },
+      {
+        "cid": 7,
+        "name": "江门市",
+        "pid": 20
+      },
+      {
+        "cid": 8,
+        "name": "湛江市",
+        "pid": 20
+      },
+      {
+        "cid": 9,
+        "name": "茂名市",
+        "pid": 20
+      },
+      {
+        "cid": 10,
+        "name": "肇庆市",
+        "pid": 20
+      },
+      {
+        "cid": 11,
+        "name": "惠州市",
+        "pid": 20
+      },
+      {
+        "cid": 12,
+        "name": "梅州市",
+        "pid": 20
+      },
+      {
+        "cid": 13,
+        "name": "汕尾市",
+        "pid": 20
+      },
+      {
+        "cid": 14,
+        "name": "河源市",
+        "pid": 20
+      },
+      {
+        "cid": 15,
+        "name": "阳江市",
+        "pid": 20
+      },
+      {
+        "cid": 16,
+        "name": "清远市",
+        "pid": 20
+      },
+      {
+        "cid": 17,
+        "name": "东莞市",
+        "pid": 20
+      },
+      {
+        "cid": 18,
+        "name": "中山市",
+        "pid": 20
+      },
+      {
+        "cid": 19,
+        "name": "潮州市",
+        "pid": 20
+      },
+      {
+        "cid": 20,
+        "name": "揭阳市",
+        "pid": 20
+      },
+      {
+        "cid": 21,
+        "name": "云浮市",
+        "pid": 20
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "内蒙古自治区",
+    "enName": "InnerMongoria",
+    "enShortName": "IM",
+    "shortName": "蒙",
+    "area": "华北",
+    "code": 15,
+    "capital": {
+      "cid": 1,
+      "name": "呼和浩特市",
+      "pid": 32
+    },
+    "adjoins": [
+      {
+        "id": 5,
+        "name": "河北省",
+        "enName": "Hebei",
+        "enShortName": "HE",
+        "shortName": "冀",
+        "area": "华北",
+        "code": 13
+      },
+      {
+        "id": 6,
+        "name": "山西省",
+        "enName": "Shanxi",
+        "enShortName": "SX",
+        "shortName": "晋",
+        "area": "华北",
+        "code": 14
+      },
+      {
+        "id": 8,
+        "name": "辽宁省",
+        "enName": "Liaoning",
+        "enShortName": "LN",
+        "shortName": "辽",
+        "area": "东北",
+        "code": 21
+      },
+      {
+        "id": 9,
+        "name": "吉林省",
+        "enName": "Jilin",
+        "enShortName": "JL",
+        "shortName": "吉",
+        "area": "东北",
+        "code": 22
+      },
+      {
+        "id": 10,
+        "name": "黑龙江省",
+        "enName": "Heilongjiang",
+        "enShortName": "HL",
+        "shortName": "黑",
+        "area": "东北",
+        "code": 23
+      },
+      {
+        "id": 21,
+        "name": "甘肃省",
+        "enName": "Gansu",
+        "enShortName": "GS",
+        "shortName": "甘",
+        "area": "西北",
+        "code": 62
+      },
+      {
+        "id": 27,
+        "name": "陕西省",
+        "enName": "Shaanxi",
+        "enShortName": "SN",
+        "shortName": "陕",
+        "area": "西北",
+        "code": 61
+      },
+      {
+        "id": 30,
+        "name": "宁夏回族自治区",
+        "enName": "Ningxia",
+        "enShortName": "NX",
+        "shortName": "宁",
+        "area": "西北",
+        "code": 64
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "呼和浩特市",
+        "pid": 32
+      },
+      {
+        "cid": 2,
+        "name": "包头市",
+        "pid": 32
+      },
+      {
+        "cid": 3,
+        "name": "乌海市",
+        "pid": 32
+      },
+      {
+        "cid": 4,
+        "name": "赤峰市",
+        "pid": 32
+      },
+      {
+        "cid": 5,
+        "name": "通辽市",
+        "pid": 32
+      },
+      {
+        "cid": 6,
+        "name": "鄂尔多斯市",
+        "pid": 32
+      },
+      {
+        "cid": 7,
+        "name": "呼伦贝尔市",
+        "pid": 32
+      },
+      {
+        "cid": 8,
+        "name": "巴彦淖尔市",
+        "pid": 32
+      },
+      {
+        "cid": 9,
+        "name": "乌兰察布市",
+        "pid": 32
+      },
+      {
+        "cid": 10,
+        "name": "锡林郭勒盟",
+        "pid": 32
+      },
+      {
+        "cid": 11,
+        "name": "兴安盟",
+        "pid": 32
+      },
+      {
+        "cid": 12,
+        "name": "阿拉善盟",
+        "pid": 32
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "陕西省",
+    "enName": "Shaanxi",
+    "enShortName": "SN",
+    "shortName": "陕",
+    "area": "西北",
+    "code": 61,
+    "capital": {
+      "cid": 1,
+      "name": "西安市",
+      "pid": 27
+    },
+    "adjoins": [
+      {
+        "id": 4,
+        "name": "重庆市",
+        "enName": "Chongqing",
+        "enShortName": "CQ",
+        "shortName": "渝",
+        "area": "西南",
+        "code": 50
+      },
+      {
+        "id": 6,
+        "name": "山西省",
+        "enName": "Shanxi",
+        "enShortName": "SX",
+        "shortName": "晋",
+        "area": "华北",
+        "code": 14
+      },
+      {
+        "id": 17,
+        "name": "河南省",
+        "enName": "Henan",
+        "enShortName": "HA",
+        "shortName": "豫",
+        "area": "华中",
+        "code": 41
+      },
+      {
+        "id": 18,
+        "name": "湖北省",
+        "enName": "Hubei",
+        "enShortName": "HB",
+        "shortName": "鄂",
+        "area": "华中",
+        "code": 42
+      },
+      {
+        "id": 21,
+        "name": "甘肃省",
+        "enName": "Gansu",
+        "enShortName": "GS",
+        "shortName": "甘",
+        "area": "西北",
+        "code": 62
+      },
+      {
+        "id": 22,
+        "name": "四川省",
+        "enName": "Sichuan",
+        "enShortName": "SC",
+        "shortName": "川",
+        "area": "西南",
+        "code": 51
+      },
+      {
+        "id": 30,
+        "name": "宁夏回族自治区",
+        "enName": "Ningxia",
+        "enShortName": "NX",
+        "shortName": "宁",
+        "area": "西北",
+        "code": 64
+      },
+      {
+        "id": 32,
+        "name": "内蒙古自治区",
+        "enName": "InnerMongoria",
+        "enShortName": "IM",
+        "shortName": "蒙",
+        "area": "华北",
+        "code": 15
+      }
+    ],
+    "citys": [
+      {
+        "cid": 1,
+        "name": "西安市",
+        "pid": 27
+      },
+      {
+        "cid": 2,
+        "name": "铜川市",
+        "pid": 27
+      },
+      {
+        "cid": 3,
+        "name": "宝鸡市",
+        "pid": 27
+      },
+      {
+        "cid": 4,
+        "name": "咸阳市",
+        "pid": 27
+      },
+      {
+        "cid": 5,
+        "name": "渭南市",
+        "pid": 27
+      },
+      {
+        "cid": 6,
+        "name": "延安市",
+        "pid": 27
+      },
+      {
+        "cid": 7,
+        "name": "汉中市",
+        "pid": 27
+      },
+      {
+        "cid": 8,
+        "name": "榆林市",
+        "pid": 27
+      },
+      {
+        "cid": 9,
+        "name": "安康市",
+        "pid": 27
+      },
+      {
+        "cid": 10,
+        "name": "商洛市",
+        "pid": 27
+      }
+    ]
+  }
+]
